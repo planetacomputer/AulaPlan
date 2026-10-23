@@ -152,4 +152,4 @@ Pots convertir l'aplicació en un executables `.AppImage` d'un sol fitxer seguin
 
 ## 📜 Llicència
 
-Aquest projecte és de codi obert i està disponible sota la llicència [MIT](LICENSE).
+Aquest projecte és de codi obert i està disponible sota la llicència [MIT](mit_license.md).
