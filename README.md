@@ -3,6 +3,7 @@
 **AulaPlan** és una aplicació d'escriptori desenvolupada en Python i Tkinter per a la gestió visual, intuïtiva i flexible de la distribució d'alumnes a l'aula. Permet als docents organitzar els seients mitjançant l'arrossegament i soltada (*drag & drop*), configurar les mides de la graella, afegir un passadís personalitzat i exportar el resultat en múltiples formats.
 
 ---
+![Captura de pantalla d'AulaPlan](./docs/aulaplan.png)
 
 ## 🚀 Característiques Principals
 
